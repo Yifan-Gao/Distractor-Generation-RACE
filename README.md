@@ -29,7 +29,7 @@ sentences in the article are marked with the same color.
 
 #### Real-world Applications
 - Help the preparation of MCQ reading comprehension datasets
-    - The existence of distractors fail existing content-matching SOTA reading comprehension on MCQs like RACE dataset (Lai et al. 2017)
+    - The existence of distractors fail existing content-matching SOTA reading comprehension on MCQs like RACE dataset
     - Large datasets can boost the performance of MCQ reading comprehension systems
 - Alleviate instructors' workload in designing MCQs for students
     - Poor distractor options can make the questions almost trivial to solve
@@ -47,5 +47,7 @@ Here is the dataset statistics.
   <img src="data/statistics.png" width="373" height="200" title="Statistics">
 </p>
 
+`Note` Due to a [bug](https://github.com/explosion/spaCy/issues/1574) in spacy, the released data is different from that we used when submitting the paper. Experimental results can be different.
+
 ## Run our model
-- The code will be released in March 2019. More details will be released then.
+- Currently the code is available upon request.
