@@ -1,5 +1,7 @@
 # Distractor-Generation-RACE
-Implementation for our AAAI 2019 paper: Generating Distractors for Reading Comprehension Questions from Real Examinations https://arxiv.org/abs/1809.02768
+Dataset for our AAAI 2019 paper: Generating Distractors for Reading Comprehension Questions from Real Examinations https://arxiv.org/abs/1809.02768
+
+**Currently the code is available upon request. The code is shared for research perpose only. Please do NOT email me if you are working on a course project.**
 
 If you use our data or code, please cite our paper as follows:
 ```tex
@@ -49,5 +51,3 @@ Here is the dataset statistics.
 
 `Note` Due to a [bug](https://github.com/explosion/spaCy/issues/1574) in spacy, the released data is different from that we used when submitting the paper. Experimental results can be different.
 
-## Run our model
-- Currently the code is available upon request.
